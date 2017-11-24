@@ -1,0 +1,2 @@
+@echo off
+python c:\inetpub\wwwroot\cgi-bin\gmail.py  %*
